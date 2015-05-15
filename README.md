@@ -14,6 +14,7 @@ This repository contains project templates for Unity tailored for easy usage wit
 ##Templates
 
 - Unity2DProject: Template for a 2D game
+- Unity3DProject: Template for a 3D game
 
 ##Usage
 
