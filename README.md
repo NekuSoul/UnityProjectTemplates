@@ -27,7 +27,7 @@ This repository contains project templates for Unity tailored for easy usage wit
 
 ##Compatibility
 
-Currently the templates are created with `Unity 5.0.1`
+Currently the templates are compatible with `Unity 5.3.2`
 
 ##License
 MIT-License: See `License`
