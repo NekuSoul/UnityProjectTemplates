@@ -8,7 +8,7 @@ This repository contains project templates for Unity tailored for easy usage wit
 
 - Preconfigured for easy use with git
 - Includes .gitignore that only adds the absolute necessary files to build the project
-- Seperate folder for Unity-tools like `Visual Studio Tool` that shouldn't be included in the git repository
+- Seperate folder for assets like `Shader-Forge` that shouldn't be included in the git repository
 - Simple folder structure divided into the three main aspects of a game
 
 ##Templates
@@ -27,7 +27,7 @@ This repository contains project templates for Unity tailored for easy usage wit
 
 ##Compatibility
 
-Currently the templates are compatible with `Unity 5.3.2`
+Currently the templates are compatible with `Unity 5.3.4`
 
 ##License
 MIT-License: See `License`
