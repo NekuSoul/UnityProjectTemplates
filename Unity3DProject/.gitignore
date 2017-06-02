@@ -9,6 +9,7 @@ Library/
 # ===================================== #
 ExportedObj/
 obj/
+.vs/
 *.svd
 *.userprefs
 /*.csproj
@@ -34,4 +35,5 @@ Thumbs.db
 # Project generated #
 # ================= #
 Assets/Tools/*
+Builds/
 !.gitkeepme

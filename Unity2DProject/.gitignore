@@ -35,4 +35,5 @@ Thumbs.db
 # Project generated #
 # ================= #
 Assets/Tools/*
+Builds/
 !.gitkeepme
