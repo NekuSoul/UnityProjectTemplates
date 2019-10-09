@@ -3,6 +3,7 @@
 # =============== #
 Temp/
 Library/
+Logs/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -37,3 +38,20 @@ Thumbs.db
 Assets/Tools/*
 Builds/
 !.gitkeepme
+
+# ===== #
+# Rider #
+# ===== #
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/shelf/*
+**/.idea/dictionaries
+**/.idea/**/dataSources/
+**/.idea/**/dataSources.ids
+**/.idea/**/dataSources.xml
+**/.idea/**/dataSources.local.xml
+**/.idea/**/sqlDataSources.xml
+**/.idea/**/dynamic.xml
+**/.idea/**/*.iml
+**/.idea/**/contentModel.xml
+**/.idea/**/modules.xml
