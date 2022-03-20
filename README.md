@@ -27,7 +27,7 @@ This repository contains project templates for Unity tailored for easy usage wit
 
 ## Compatibility
 
-Currently the templates are compatible with `Unity 2017.3.0f3`
+Currently the templates are compatible with `Unity 2022.1.0b12`
 
 ## License
 MIT-License: See `License`
